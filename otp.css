@@ -1,0 +1,80 @@
+body{
+    background-color:rgb(44, 13, 13);
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    position:relative;
+}
+
+#square
+{
+    background-color:green;
+    
+    width:40%;
+    height:90%;
+    display:flex;
+    justify-content:center;
+    margin-top:20%;
+}
+
+
+label
+{
+font-size:13pt;
+color:yellow;
+}
+#otp
+{
+    width:90%;
+    height:30px;
+    background-color:white;
+    color:yellow;
+    border-style:solid;
+    border-width:3px;
+    border-color:lightskyblue;
+    align-self: center;
+}
+
+#resend
+{
+    background-color: yellow;
+    color:green;
+    font-size:14pt;
+    width:80%;
+    height:30px;
+    margin-left: auto;    
+}
+
+#res
+{
+    width:70px;
+    height:30px;
+    background-color:rgb(44, 13, 13);
+    border-style:solid;
+    border-width:4px;
+    border-color:white;
+    font-size:13pt;
+    color:yellow;
+    margin-left:0px;
+    margin-right:15px;
+    margin-bottom:10px;
+    
+}
+
+#confirm
+
+{
+    width:70px;
+    height:30px;
+    background-color:rgb(44, 13, 13);
+    border-style:solid;
+    border-width:4px;
+    border-color:white;
+    font-size:11pt;
+    color:green;
+    margin-left:15px;
+    margin-right:0px;
+    margin-bottom:10px;
+    
+}
+
